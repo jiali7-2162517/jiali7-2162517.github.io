@@ -50,11 +50,11 @@ h3 {
     color: #ffbc00;
     font-size: 40px;
     font-family: "Passion One";
-    margin-bottomL 0px;
+    margin-bottom: 0px;
 }
 
 div {
-    background-color: #8e41d5;
+    background-image: linear-gradient(#8e41d5, #dbcde8);
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 10px;
