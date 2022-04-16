@@ -1,0 +1,48 @@
+
+body {
+    background-image: linear-gradient(#ffffff, #8e41d5);
+}
+
+#container {
+    margin-left: 5px;
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-size: 20px;
+    font-family: "Arial";
+}
+
+#personalInfo {
+    text-align: center;
+    border-style: dashed;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#textbox input{
+    font-family: "Arial";
+    font-size: 20px;
+    height: 30px;
+    width:90%;
+    margin-bottom: 10px;
+}
+
+#textArea {
+    height: 100px;
+    width:90%;
+}
+
+#Wsign{
+    height: 100px;
+    width:150px;
+}
+
+#submitButton {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: "Arial";
+    color: #ffffff;
+    background-color: #d7bdef;
+    height: 60px;
+    width: 20%;;
+}
